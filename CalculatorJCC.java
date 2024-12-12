@@ -27,7 +27,7 @@ public class CalculatorJCC {
             // Else
                 // Print to the user "Command not found!" 
 
-            // Prompt the user "Exit (Y/N): " and assign the value to "operation"
+            // Prompt the user "Exit (Y/N)?: " and assign the value to "operation"
             // Write an if-statement to see if the operation was "Y"
                 // Assign "exitCommandNotEntered" to "false"
     }
